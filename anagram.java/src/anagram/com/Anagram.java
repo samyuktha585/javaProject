@@ -20,7 +20,7 @@ public class Anagram {
 	   }
 	   else
 	   {
-		   System.out.println(str1 + " and " + str2 + "are not anagram");
+		   System.out.println(str1 + " and " + str2 + "are not anagram(changes)");
 		   }
    }
 	}
